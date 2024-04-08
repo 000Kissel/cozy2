@@ -235,3 +235,45 @@ h6 {
     line-height: 160%;
     color: var(--color-dark-xl);
 }
+
+.friends {
+    background: var(--color-light-l);
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.container {}
+
+.friends__content {}
+
+.section-title {}
+
+.friends__title {}
+
+.friends__slider {}
+
+.slider__controls {}
+
+.slider__control {}
+
+.slider__control-prev {}
+
+.slider__control-next {}
+
+.friends__list {}
+
+.friends__item {}
+
+.friend {}
+
+.friend__img-wrap {}
+
+.friend__img {}
+
+.friend__name {}
+
+.btn {}
+
+.friends__btn {}
+
+.friends__btn-wrap {}
