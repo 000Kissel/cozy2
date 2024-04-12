@@ -1,8 +1,13 @@
-@media (max-width: 768px) {
+@media (max-width: 925px) {
     .container {
         max-width: 768px;
         margin: 0 auto;
         padding: 0px 30px;
+    }
+
+    .hero {
+        height: auto;
+        min-height: 100vh;
     }
 
     .hero__content {
